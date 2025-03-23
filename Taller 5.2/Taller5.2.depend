@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630331832 source:d:\u\programacion avanzada\taller5.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

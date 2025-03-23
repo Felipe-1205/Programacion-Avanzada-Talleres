@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1628480283 source:d:\u\programacion avanzada\taller2.3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	<ctime>
+	<fstream>
+
